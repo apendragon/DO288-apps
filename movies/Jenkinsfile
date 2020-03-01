@@ -97,6 +97,7 @@ pipeline {
 							return (it.object().status.phase == "Running")
 
 						
+						}
 					}
 				}
 			}
